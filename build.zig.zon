@@ -1,0 +1,12 @@
+.{
+    .name = "har",
+    .version = "1.2.0",
+    .dependencies = .{},
+    .paths = .{
+        "LICENSE",
+        "README.md",
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
