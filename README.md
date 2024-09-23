@@ -22,3 +22,5 @@ const har = b.dependency("har", .{
 
 exe.root_module.addImport("har", har.module("har"));
 ```
+
+or just copy the src/har.zig file into your project...
